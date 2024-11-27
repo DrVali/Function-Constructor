@@ -15,3 +15,4 @@ function Persons(first, last, age) {
 }
 
 const myName = new Persons("ali", "ahmadi", 32);
+const seccond = new Persons("asghar", "raezani", 18);
